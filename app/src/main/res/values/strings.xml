@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AdapterDemo202209</string>
+    <array name="sports_category">
+        <item>田径</item>
+        <item>赛艇</item>
+        <item>跆拳道</item>
+        <item>自行车</item>
+        <item>帆船</item>
+        <item>皮划艇</item>
+        <item>射剑</item>
+        <item>射击</item>
+        <item>游泳</item>
+        <item>铁人三项</item>
+        <item>现代五项</item>
+        <item>拳击</item>
+        <item>击剑</item>
+        <item>柔道</item>
+        <item>摔跤</item>
+        <item>举重</item>
+        <item>体操</item>
+        <item>乒乓球</item>
+        <item>羽毛球</item>
+        <item>排球</item>
+        <item>篮球</item>
+        <item>足球</item>
+        <item>曲棍球</item>
+        <item>手球</item>
+        <item>网球</item>
+        <item>马术</item>
+        <item>棒球</item>
+        <item>垒球</item>
+    </array>
+</resources>
